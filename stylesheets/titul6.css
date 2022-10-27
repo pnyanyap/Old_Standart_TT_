@@ -1,0 +1,143 @@
+.titul6 {
+  width: 1280px;
+  height: 1430px;
+  position: relative;
+}
+.maskc {
+  width: 889px;
+  height: 1420px;
+  position: absolute;
+  left: 391px;
+  overflow: hidden
+}
+.krug19 {
+  width: 1306px;
+  height: 1306px;
+  border: 10px solid white;
+  border-radius: 1000px;
+  position: absolute;
+  left: 164px;
+  top: 49px;
+}
+.krug20 {
+  width: 581px;
+  height: 581px;
+  border: 10px solid white;
+  border-radius: 500px;
+  position: absolute;
+  left: 520px;
+  top: 410px;
+}
+.krug21 {
+  width: 281px;
+  height: 281px;
+  border: 10px solid white;
+  border-radius: 500px;
+  position: absolute;
+}
+.knopki div:nth-of-type(1) {
+  left: 677px;
+  top: 89px;
+}
+.knopki div:nth-of-type(2) {
+  left: 349px;
+  top: 214px;
+}
+.knopki div:nth-of-type(3) {
+  left: 199px;
+  top: 560px;
+}
+.knopki div:nth-of-type(4) {
+  left: 339px;
+  top: 906px;
+}
+.knopki div:nth-of-type(5) {
+  left: 677px;
+  top: 1031px;
+}
+.txt15 > p {
+  font-size: 200px;
+  color: white;
+  position: absolute;
+}
+.txt15 p:nth-of-type(1) {
+  left: 777px;
+  top: 155px;
+}
+.txt15 p:nth-of-type(2) {
+  left: 440px;
+  top: 276px;
+}
+.txt15 p:nth-of-type(3) {
+  left: 288px;
+  top: 635px;
+}
+.txt15 p:nth-of-type(4) {
+  left: 423px;
+  top: 968px;
+}
+.txt15 p:nth-of-type(5) {
+  left: 777px;
+  top: 1106px;
+}
+.maskc2 {
+  width: 889px;
+  height: 1420px;
+  position: absolute;
+  top: 331px;
+  overflow: hidden
+}
+.krug22 {
+  width: 1306px;
+  height: 1306px;
+  border: 10px solid white;
+  border-radius: 1000px;
+  position: absolute;
+  left: -815px;
+  top: 98px;
+}
+.krug23 {
+  width: 581px;
+  height: 581px;
+  border: 10px solid white;
+  border-radius: 500px;
+  position: absolute;
+  left: -444px;
+  top: 460px;
+}
+.krug24 {
+  width: 281px;
+  height: 281px;
+  border: 10px solid white;
+  border-radius: 500px;
+  position: absolute;
+}
+.knopki2 div:nth-of-type(1) {
+  left: 26px;
+  top: 264px;
+}
+.knopki2 div:nth-of-type(2) {
+  left: 177px;
+  top: 610px;
+}
+.knopki2 div:nth-of-type(3) {
+  left: 37px;
+  top: 956px;
+}
+.txt16 > p {
+  font-size: 200px;
+  color: white;
+  position: absolute;
+}
+.txt16 p:nth-of-type(1) {
+  left: 130px;
+  top: 1023px;
+}
+.txt16 p:nth-of-type(2) {
+  left: 270px;
+  top: 685px;
+}
+.txt16 p:nth-of-type(3) {
+  left: 119px;
+  top: 331px;
+}

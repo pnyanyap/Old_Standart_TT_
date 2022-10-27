@@ -1,0 +1,194 @@
+.titul8 {
+  width: 1280px;
+  height: 1047px;
+  position: relative;
+}
+.titul8 > h4 {
+  top: 47px;
+  left: 114px;
+}
+.titul8 > h5 {
+  top: 51px;
+  left: 70px;
+}
+.krug29 {
+  width: 314px;
+  height: 314px;
+  border-radius: 500px;
+  border: 10px solid white;
+}
+.osob {
+  width: 1168px;
+  height: 334px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 71px;
+  margin-top: 139px;
+}
+.bukv > p {
+  font-size: 820px;
+  color: white;
+  position: absolute;
+  top: -135px;
+  left: 50px;
+}
+.bukv {
+  width: 334px;
+  height: 334px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 500px;
+  top: 139px;
+  left: 70px;
+}
+.bukv2 > p {
+  font-size: 820px;
+  color: white;
+  position: absolute;
+  top: 7px;
+  left: -106px;
+}
+.bukv2 {
+  width: 334px;
+  height: 334px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 500px;
+  top: 139px;
+  left: 488px;
+}
+.bukv3 > p {
+  font-size: 820px;
+  color: white;
+  position: absolute;
+  top: -6px;
+  left: -54px;
+}
+.bukv3 {
+  width: 334px;
+  height: 334px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 500px;
+  top: 139px;
+  left: 905px;
+}
+.osobmask {
+  width: 1168px;
+  height: 334px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 72px;
+  margin-top: 140px;
+}
+.osob2 {
+  width: 1168px;
+  height: 334px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 71px;
+  margin-top: 623px;
+}
+.bukv4 > p {
+  font-size: 820px;
+  color: white;
+  position: absolute;
+  top: -397px;
+  left: -160px;
+}
+.bukv4 {
+  width: 334px;
+  height: 334px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 500px;
+  top: 623px;
+  left: 71px;
+}
+.bukv5 > p {
+  font-size: 820px;
+  color: white;
+  position: absolute;
+  top: -171px;
+  left: -109px;
+}
+.bukv5 {
+  width: 334px;
+  height: 334px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 500px;
+  top: 623px;
+  left: 488px;
+}
+.bukv6 > p {
+  font-size: 820px;
+  color: white;
+  position: absolute;
+  top: -154px;
+  left: 71px;
+}
+.bukv6 {
+  width: 334px;
+  height: 334px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 500px;
+  top: 623px;
+  left: 905px;
+}
+.txt18 > p {
+  font-size: 115px;
+  color: white;
+}
+.txt18 {
+  width: 878px;
+  height: 142px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 59px;
+  margin-top: 396px;
+}
+.txt19 > p {
+  font-size: 115px;
+  color: white;
+}
+.txt19 {
+  width: 878px;
+  height: 142px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 59px;
+  margin-top: 868px;
+}
+.txt20 > p {
+  font-size: 25px;
+  color: white;
+}
+.txt20 {
+  width: 920px;
+  height: 31px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 192px;
+  margin-top: 486px;
+}
+.txt21 > p {
+  font-size: 25px;
+  color: white;
+}
+.txt21 {
+  width: 1066px;
+  height: 31px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 137px;
+  margin-top: 967px;
+}

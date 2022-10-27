@@ -1,0 +1,182 @@
+.titul7 {
+  width: 1280px;
+  height: 2030px;
+  position: relative;
+}
+.krug25 {
+  width: 521px;
+  height: 214px;
+  border-radius: 1000px/400px;
+  background: white;
+  position: absolute;
+  top: 324px;
+  left: 687px;
+}
+.kv18 {
+  width: 69px;
+  height: 113px;
+  position: absolute;
+  background: white;
+  top: 134px;
+  left: 919px;
+}
+.kv19 {
+  width: 309px;
+  height: 120px;
+  background: white;
+  border-radius: 0 0 33px 33px;
+  position: absolute;
+  top: 20px;
+  left: 792px;
+}
+.kv20 {
+  width: 158px;
+  height: 118px;
+  background: black;
+  border-radius: 0 0 33px 33px;
+  position: absolute;
+  top: -24px;
+  left: 866px;
+}
+.krug26 {
+  width: 237px;
+  height: 237px;
+  border: 11px solid black;
+  border-radius: 500px;
+  background: white;
+  position: absolute;
+  top: 224px;
+  left: 824px;
+}
+.krug28 {
+  width: 107px;
+  height: 107px;
+  border-radius: 500px;
+  background: black;
+  position: absolute;
+  top: 299px;
+  left: 900px;
+}
+.krug27 {
+  width: 38px;
+  height: 38px;
+  border-radius: 500px;
+  background: black;
+  position: absolute;
+}
+.diskn div:nth-of-type(1) {
+  top: 248px;
+  left: 934px;
+}
+.diskn div:nth-of-type(2) {
+  top: 258px;
+  left: 890px;
+}
+.diskn div:nth-of-type(3) {
+  top: 291px;
+  left: 859px;
+}
+.diskn div:nth-of-type(4) {
+  top: 335px;
+  left: 846px;
+}
+.diskn div:nth-of-type(5) {
+  top: 376px;
+  left: 859px;
+}
+.diskn div:nth-of-type(6) {
+  top: 406px;
+  left: 890px;
+}
+.diskn div:nth-of-type(7) {
+  top: 420px;
+  left: 934px;
+}
+
+.diskn div:nth-of-type(8) {
+  top: 406px;
+  left: 981px;
+}
+.diskn div:nth-of-type(9) {
+  top: 376px;
+  left: 1014px;
+}
+.diskn div:nth-of-type(10) {
+  top: 334px;
+  left: 1023px;
+}
+.trubka {
+  width: 792px;
+  height: 1139px;
+  position: absolute;
+  top: 451px;
+  left: 174px;
+}
+.trubka2 {
+  width: 597px;
+  height: 532px;
+  position: absolute;
+  top: 1453px;
+  left: 683px;
+}
+.titul7 > h4 {
+  top: 613px;
+  left: 114px;
+}
+.titul7 > h5 {
+  top: 618px;
+  left: 70px;
+}
+.txt17 > h2 {
+  font-size: 200px;
+  color: white;
+  position: absolute;
+}
+.txt17 h2:nth-of-type(1) {
+  top: 1111px;
+  left: 970px;
+}
+.txt17 h2:nth-of-type(2) {
+  top: 1443px;
+  left: 381px;
+}
+.txt17 h2:nth-of-type(3) {
+  top: 1592px;
+  left: 669px;
+}
+.txt17 h2:nth-of-type(4) {
+  top: 1680px;
+  left: 84px;
+}
+.txt17 h2:nth-of-type(5) {
+  top: 1721px;
+  left: 452px;
+}
+.smb1 {
+  width: 150px;
+  height: 205px;
+  position: absolute;
+  top: 1051px;
+  left: 642px;
+}
+.smb2 {
+  width: 167px;
+  height: 78px;
+  position: absolute;
+  top: 1305px;
+  left: 805px;
+}
+.smb3 {
+  width: 110px;
+  height: 95px;
+  position: absolute;
+  top: 1441px;
+  left: 705px;
+}
+.smb4 {
+  width: 71px;
+  height: 224px;
+  position: absolute;
+  top: 1408px;
+  left: 167px;
+}

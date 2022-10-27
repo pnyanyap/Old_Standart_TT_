@@ -1,0 +1,122 @@
+.titul9 {
+  width: 1280px;
+  height: 1089px;
+  position: relative;
+}
+.titul9 > h4 {
+  top: 75px;
+  left: 114px;
+}
+.titul9 > h5 {
+  top: 75px;
+  left: 70px;
+}
+.one p:nth-of-type(1) {
+  font-size: 90px;
+  color: white;
+}
+.one p:nth-of-type(2) {
+  font-size: 140px;
+  color: white;
+}
+.one {
+  width: 1176px;
+  height: 173px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 63px;
+  margin-top: 184px;
+}
+.two > p {
+  font-size: 65px;
+  color: white;
+  position: absolute;
+  top: 307px;
+  left: 363px;
+}
+.three p:nth-of-type(1) {
+  font-size: 180px;
+  color: white;
+}
+.three p:nth-of-type(2) {
+  font-size: 65px;
+  color: white;
+  margin-top: 40px;
+}
+.three {
+  width: 1073px;
+  height: 173px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 61px;
+  margin-top: 351px;
+}
+.four p:nth-of-type(1) {
+  font-size: 90px;
+  color: white;
+}
+.four p:nth-of-type(2) {
+  font-size: 140px;
+  color: white;
+  margin-top: -39px;
+}
+.four {
+  width: 1174px;
+  height: 173px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 66px;
+  margin-top: 557px;
+}
+.five > p {
+  font-size: 65px;
+  color: white;
+  position: absolute;
+  top: 632px;
+  left: 414px;
+}
+.six p:nth-of-type(1) {
+  font-size: 180px;
+  color: white;
+}
+.six p:nth-of-type(2) {
+  font-size: 90px;
+  color: white;
+  margin-top: 68px;
+}
+.six p:nth-of-type(3) {
+  font-size: 180px;
+  color: white;
+}
+.six {
+  width: 1183px;
+  height: 173px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 55px;
+  margin-top: 713px;
+}
+.kv21 {
+  width: 1260px;
+  height: 115px;
+  border: 10px solid white;
+  border-radius: 0 0 63px 63px;
+  position: absolute;
+  top: 938px;
+}
+.kv21 > p {
+  font-size: 34px;
+  color: white;
+  position: absolute;
+  top: 43px;
+}
+.kv21 p:nth-of-type(1) {
+  left: 106px;
+}
+.kv21 p:nth-of-type(2) {
+  left: 978px;
+}
